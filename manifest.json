@@ -1,0 +1,13 @@
+{
+  "name": "Танковый фронт 1943",
+  "short_name": "Танки",
+  "start_url": "/Tank-Front/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#0a0f0a",
+  "theme_color": "#0a0f0a",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
